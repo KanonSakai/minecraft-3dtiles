@@ -1,6 +1,7 @@
 {
   "asset": {
-    "version": "1.0"
+    "version": "1.0",
+    "gltfUpAxis": "Z"
   },
   "geometricError": 500,
   "root": {
