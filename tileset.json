@@ -1,6 +1,6 @@
 {
   "asset": {
-    "version": "1.1"
+    "version": "1.0"
   },
   "geometricError": 500,
   "root": {
@@ -54,7 +54,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_0_0.glb"
+          "uri": "tile_0_0.b3dm"
         }
       },
       {
@@ -94,7 +94,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_0_1.glb"
+          "uri": "tile_0_1.b3dm"
         }
       },
       {
@@ -134,7 +134,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_0_2.glb"
+          "uri": "tile_0_2.b3dm"
         }
       },
       {
@@ -174,7 +174,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_0_3.glb"
+          "uri": "tile_0_3.b3dm"
         }
       },
       {
@@ -214,7 +214,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_0_4.glb"
+          "uri": "tile_0_4.b3dm"
         }
       },
       {
@@ -254,7 +254,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_0_5.glb"
+          "uri": "tile_0_5.b3dm"
         }
       },
       {
@@ -294,7 +294,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_1_0.glb"
+          "uri": "tile_1_0.b3dm"
         }
       },
       {
@@ -334,7 +334,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_1_1.glb"
+          "uri": "tile_1_1.b3dm"
         }
       },
       {
@@ -374,7 +374,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_1_2.glb"
+          "uri": "tile_1_2.b3dm"
         }
       },
       {
@@ -414,7 +414,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_1_3.glb"
+          "uri": "tile_1_3.b3dm"
         }
       },
       {
@@ -454,7 +454,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_1_4.glb"
+          "uri": "tile_1_4.b3dm"
         }
       },
       {
@@ -494,7 +494,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_1_5.glb"
+          "uri": "tile_1_5.b3dm"
         }
       },
       {
@@ -534,7 +534,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_2_0.glb"
+          "uri": "tile_2_0.b3dm"
         }
       },
       {
@@ -574,7 +574,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_2_1.glb"
+          "uri": "tile_2_1.b3dm"
         }
       },
       {
@@ -614,7 +614,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_2_2.glb"
+          "uri": "tile_2_2.b3dm"
         }
       },
       {
@@ -654,7 +654,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_2_3.glb"
+          "uri": "tile_2_3.b3dm"
         }
       },
       {
@@ -694,7 +694,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_2_4.glb"
+          "uri": "tile_2_4.b3dm"
         }
       },
       {
@@ -734,7 +734,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_2_5.glb"
+          "uri": "tile_2_5.b3dm"
         }
       },
       {
@@ -774,7 +774,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_3_0.glb"
+          "uri": "tile_3_0.b3dm"
         }
       },
       {
@@ -814,7 +814,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_3_1.glb"
+          "uri": "tile_3_1.b3dm"
         }
       },
       {
@@ -854,7 +854,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_3_2.glb"
+          "uri": "tile_3_2.b3dm"
         }
       },
       {
@@ -894,7 +894,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_3_3.glb"
+          "uri": "tile_3_3.b3dm"
         }
       },
       {
@@ -934,7 +934,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_3_4.glb"
+          "uri": "tile_3_4.b3dm"
         }
       },
       {
@@ -974,7 +974,7 @@
           1.0
         ],
         "content": {
-          "uri": "tile_3_5.glb"
+          "uri": "tile_3_5.b3dm"
         }
       }
     ]
