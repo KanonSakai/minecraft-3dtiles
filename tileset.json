@@ -1,7 +1,6 @@
 {
   "asset": {
-    "version": "1.0",
-    "gltfUpAxis": "Z"
+    "version": "1.0"
   },
   "geometricError": 500,
   "root": {
@@ -15,7 +14,7 @@
         150.0
       ]
     },
-    "geometricError": 500,
+    "geometricError": 100,
     "refine": "ADD",
     "children": [
       {
@@ -29,7 +28,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_0_0.b3dm"
         }
@@ -45,7 +44,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_0_1.b3dm"
         }
@@ -61,7 +60,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_0_2.b3dm"
         }
@@ -77,7 +76,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_0_3.b3dm"
         }
@@ -93,7 +92,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_0_4.b3dm"
         }
@@ -109,7 +108,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_0_5.b3dm"
         }
@@ -125,7 +124,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_1_0.b3dm"
         }
@@ -141,7 +140,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_1_1.b3dm"
         }
@@ -157,7 +156,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_1_2.b3dm"
         }
@@ -173,7 +172,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_1_3.b3dm"
         }
@@ -189,7 +188,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_1_4.b3dm"
         }
@@ -205,7 +204,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_1_5.b3dm"
         }
@@ -221,7 +220,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_2_0.b3dm"
         }
@@ -237,7 +236,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_2_1.b3dm"
         }
@@ -253,7 +252,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_2_2.b3dm"
         }
@@ -269,7 +268,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_2_3.b3dm"
         }
@@ -285,7 +284,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_2_4.b3dm"
         }
@@ -301,7 +300,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_2_5.b3dm"
         }
@@ -317,7 +316,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_3_0.b3dm"
         }
@@ -333,7 +332,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_3_1.b3dm"
         }
@@ -349,7 +348,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_3_2.b3dm"
         }
@@ -365,7 +364,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_3_3.b3dm"
         }
@@ -381,7 +380,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_3_4.b3dm"
         }
@@ -397,7 +396,7 @@
             150.0
           ]
         },
-        "geometricError": 0,
+        "geometricError": 10,
         "content": {
           "uri": "tile_3_5.b3dm"
         }
